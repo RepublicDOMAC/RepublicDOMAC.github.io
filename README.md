@@ -1,2 +1,1 @@
-# RepublicDOMAC.github.io
-The official website for DOMAC
+# Department Of Media And Culture.
